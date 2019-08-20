@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gojs-example/static/css/main.4928852b.chunk.css",
-  "main.js": "/react-gojs-example/static/js/main.294ec034.chunk.js",
-  "main.js.map": "/react-gojs-example/static/js/main.294ec034.chunk.js.map",
-  "runtime~main.js": "/react-gojs-example/static/js/runtime~main.6f96574e.js",
-  "runtime~main.js.map": "/react-gojs-example/static/js/runtime~main.6f96574e.js.map",
-  "static/js/2.29e92fb7.chunk.js": "/react-gojs-example/static/js/2.29e92fb7.chunk.js",
-  "static/js/2.29e92fb7.chunk.js.map": "/react-gojs-example/static/js/2.29e92fb7.chunk.js.map",
-  "index.html": "/react-gojs-example/index.html",
-  "precache-manifest.7ae7cb84f2d3a78a1e17f3f94d76da4c.js": "/react-gojs-example/precache-manifest.7ae7cb84f2d3a78a1e17f3f94d76da4c.js",
-  "service-worker.js": "/react-gojs-example/service-worker.js",
-  "static/css/main.4928852b.chunk.css.map": "/react-gojs-example/static/css/main.4928852b.chunk.css.map"
+  "main.css": "/react-gotjs-example/static/css/main.4928852b.chunk.css",
+  "main.js": "/react-gotjs-example/static/js/main.a2af880a.chunk.js",
+  "main.js.map": "/react-gotjs-example/static/js/main.a2af880a.chunk.js.map",
+  "runtime~main.js": "/react-gotjs-example/static/js/runtime~main.31357bc2.js",
+  "runtime~main.js.map": "/react-gotjs-example/static/js/runtime~main.31357bc2.js.map",
+  "static/js/2.29e92fb7.chunk.js": "/react-gotjs-example/static/js/2.29e92fb7.chunk.js",
+  "static/js/2.29e92fb7.chunk.js.map": "/react-gotjs-example/static/js/2.29e92fb7.chunk.js.map",
+  "index.html": "/react-gotjs-example/index.html",
+  "precache-manifest.0b9ff8339b1a0a61d606c3fbbbd0b6f0.js": "/react-gotjs-example/precache-manifest.0b9ff8339b1a0a61d606c3fbbbd0b6f0.js",
+  "service-worker.js": "/react-gotjs-example/service-worker.js",
+  "static/css/main.4928852b.chunk.css.map": "/react-gotjs-example/static/css/main.4928852b.chunk.css.map"
 }
